@@ -1,0 +1,33 @@
+# Définition
+
+
+## Algorithme
+
+Description d'une suite d'étapes permettant d'obtenir un résultat à partir d'éléments fournis en entrée. \
+Par exemple, une recette de cuisine est un algorithme permettant d'obtenir un plat à partir de ses ingrédients.
+
+<span style="text-decoration:underline;">Source </span>: glossaire de la Commission nationale de l’informatique et des libertés (CNIL)
+
+
+## Code source
+
+Ensemble d’instructions composant un programme informatique dans un langage de programmation (HTML, CSS, Python, Java, Ruby, Julia…).<span style="text-decoration:underline;"> \
+Source :</span> Thésaurus de la science ouverte. http://data.loterre.fr/ark:/67375/TSO-MBZXLNPD-1
+
+**_Attention !_** Un algorithme, en lui-même, n’est pas un code source ou un programme informatique. Les informaticiens traduisent un algorithme en instructions écrites dans un langage de programmation : le code source.
+
+L’ordinateur exécute ensuite le programme informatique et donne le résultat en fonction des instructions.
+
+
+## Transparence algorithmique
+
+Adaptation de la transparence de l’action publique aux décisions algorithmiques. Elle prend racine à l’article 15 de la Déclaration des droits de l’homme et du citoyen (DDHC) selon lequel “La Société a le droit de demander compte à tout agent public de son administration”.
+
+
+## Intelligence artificielle 
+
+Discipline reproduisant à l’aide des programmes informatiques exécutés par des machines, des capacités de l’intelligence humaine : l’apprentissage perceptuel, l’organisation de la mémoire et le raisonnement critique. 
+
+Certains algorithmes d’IA sont caractérisés par leur faculté d’auto-apprentissage et la capacité à redéfinir les règles qu’ils mettent en œuvre, de telle sorte qu’il n’est parfois plus possible de comprendre comment l’algorithme a abouti à un résultat donné.
+
+C’est le phénomène de “boîte noire”.
