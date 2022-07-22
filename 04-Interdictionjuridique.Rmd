@@ -1,0 +1,48 @@
+# Interdiction juridique
+
+
+## Décisions fondées exclusivement sur un traitement automatisé
+
+_Article 22 du RGPD_
+
+**_#traitement automatisé_**
+
+**_#données à caractère personnel_**
+
+**_#décision juridiquement contraignante ou les affectant de manière significative_**
+
+Les personnes ne peuvent pas faire l’objet d’une décision juridiquement contraignante ou les affectant de manière significative fondée exclusivement sur un traitement automatisé (donc sans intervention humaine).
+
+<span style="text-decoration:underline;">Exceptions :</span>
+
+
+
+* la décision est absolument nécessaire pour conclure ou exécuter un contrat ;
+* une législation “européenne ou nationale permet le recours aux algorithmes et fournit des garanties appropriées pour protéger les droits, les libertés et les intérêts légitimes des personnes concernées” ;
+* la personne a donné son consentement explicite.
+
+
+## Décisions administratives individuelles fondées exclusivement sur un algorithme auto-apprenant
+
+_Décision du Conseil constitutionnel n°2018-765 DC du 12 juin 2018 sur la loi relative à la protection des données personnelles_
+
+**_#traitement automatisé_**
+
+**_#données à caractère personnel_**
+
+**_#décision juridiquement contraignante ou les affectant de manière significative_**
+
+**_#algorithme auto-apprenant_**
+
+Ne peuvent être utilisés, comme fondement exclusif d’une décision administrative individuelle, des algorithmes susceptibles de réviser eux-mêmes les règles qu’ils appliquent, sans le contrôle et la validation du responsable de traitement.
+
+
+## Décisions prises sur la base d’un traitement de données sensibles
+
+_Article 9 du RGPD_
+
+**_#données à caractère personnel_**
+
+**_#données sensibles_**
+
+Le recours au traitement algorithmique sur l'une des données sensibles est interdit, sauf certaines exceptions.

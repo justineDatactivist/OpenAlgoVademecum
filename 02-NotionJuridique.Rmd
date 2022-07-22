@@ -1,0 +1,43 @@
+# Notion juridique
+
+
+## Décision administrative individuelle
+
+* est mentionnée dans la loi du 7 octobre 2016 pour une République numérique (dite “loi Lemaire”), codée dans le Code des relations entre le public et l’administration (CRPA)
+* est un acte unilatéral pris par une autorité administrative, qui a pour destinataire une ou plusieurs personnes nommément désignées (personnes physiques ou morales, publiques ou privées)
+  *Circulaire du 24 décembre 1997 relative à la mise en œuvre de la déconcentration des décisions administratives individuelles_
+
+
+## Données à caractère personnel 
+
+
+* est définie à l’article 4 du RGPD comme toute information relative à une personne physique susceptible d'être identifiée, directement ou indirectement.
+
+
+## Données sensibles 
+
+
+* est définie à l’article 9 du RGPD comme des données à caractère personnel qui révèlent la prétendue origine raciale ou l'origine ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale d'une personne physique, des données génétiques, des données biométriques, des données de santé ou des données relatives à la vie sexuelle ou l'orientation sexuelle d'une personne physique.
+
+
+## Profilage
+
+
+* est défini dans le Règlement européen sur la protection des données (art. 4 RGPD) comme “toute forme de traitement automatisé de données à caractère personnel en vue d’évaluer des aspects personnels relatifs à un individu, notamment pour analyser ou prédire son comportement, comme son rendement au travail, sa situation économique, sa santé, ses préférences personnelles, son comportement, sa localisation, etc.”
+
+
+## Traitement automatisé
+
+
+* est mentionné, mais non défini, dans le Règlement européen sur la protection des données (RGPD).
+* selon les lignes directrices relatives à la prise de décision individuelle automatisée et au profilage adoptées le 3 octobre 2017, la prise de décision exclusivement automatisée est la capacité de prendre des décisions par des moyens technologiques, sans intervention humaine.
+
+
+## Traitement algorithmique
+
+
+* est mentionné, mais non défini, dans la loi du 7 octobre 2016 pour une République numérique (dite “loi Lemaire”), codée dans le Code des relations entre le public et l’administration (CRPA)
+* n’est pas restreint à un programme informatique. Est un traitement algorithmique…
+    * une grille de notation "papier", selon Etalab
+    * un arbre d’aide à la décision commun du Service d'aide médicale urgente et de la Brigade des sapeurs-pompiers de Paris, selon la Commission d’accès aux documents administratifs (CADA)
+    * les critères et les modalités d'examen des demandes d'inscription en premier cycle par les établissements d’enseignement supérieurs, selon les juges constitutionnel et administratif

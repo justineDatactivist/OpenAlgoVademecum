@@ -1,0 +1,87 @@
+# Obligation légale
+
+
+NB : ***#critères du champ d’application des obligations légales***
+
+
+## Information individuelle
+
+_Article 22 du RGPD_
+
+***#traitement automatisé***
+
+***#données à caractère personnel***
+
+***#décision juridiquement contraignante ou les affectant de manière significative***
+
+Dans les cas particuliers où les personnes font l’objet d’une décision fondée exclusivement sur un traitement automatisé, elles doivent être informées : 
+
+
+
+* de la logique sous-jacente au processus de prise de décision,
+* du droit d’obtenir une intervention humaine,
+* des conséquences éventuelles du traitement,
+* du droit de contester la décision. 
+
+
+## Information générale
+
+_Article L.312-1-3 du CRPA_
+
+***#décision administrative individuelle***
+
+***#traitement algorithmique***
+
+***#administrations comptant plus de 50 équivalents temps plein (agents et/ou salariés) et collectivités de plus de 3500 habitants***
+
+Publier en ligne les règles définissant les principaux traitements qui fondent des décisions individuelles.
+
+
+## Mention explicite
+
+_Article L.311-3-1 du CRPA_
+
+***#décision administrative individuelle***
+
+***#traitement algorithmique***
+
+Faire figurer sur la décision individuelle administrative, prise à l’aide d’un traitement algorithmique, une mention précisant :
+
+
+
+* les finalités du traitement,
+* le rappel du droit de communication,
+* les modalités d’exercice de ce droit.
+
+<span style="text-decoration:underline;">Sanction :</span> La décision est nulle lorsqu’une décision automatisée ne fait pas mention de cette caractéristique.
+
+
+## Information individuelle à la demande de l'intéressé
+
+_Article R.311-3-1-2 du CRPA_
+
+***#décision administrative individuelle***
+
+***#traitement algorithmique***
+
+Fournir à la demande de l’intéressé sous une forme intelligible :
+
+
+
+* le degré et le mode de contribution du traitement algorithmique à la prise de décision,
+* les données traitées et leurs sources,
+* les paramètres de traitement et leur pondération, appliqués à la situation de l'intéressé,
+* les opérations effectuées par le traitement.
+
+
+## Exceptions aux obligations d'informations générale et personnelle 
+
+_Article L. 311-5 du CRPA_
+
+***#décision administrative individuelle***
+
+***#traitement algorithmique***
+
+Certains intérêts et secrets protégés par la loi peuvent limiter la communication ou la publication des traitements algorithmiques fondant des décisions administratives individuelles. \
+Notamment le secret des délibérations des autorités responsables relevant du pouvoir exécutif ; la sûreté de l'Etat, la sécurité publique, la sécurité des personnes ou la sécurité des systèmes d'information des administrations ; la recherche et à la prévention, par les services compétents, d'infractions de toute nature.
+
